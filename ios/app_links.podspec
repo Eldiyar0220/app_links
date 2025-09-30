@@ -1,5 +1,3 @@
-platform :ios, '15.5'
-
 Pod::Spec.new do |s|
   s.name             = 'app_links'
   s.version          = '6.4.1'
